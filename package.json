@@ -1,0 +1,27 @@
+{
+  "name": "lab-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharoran-401-advanced-javascript/lab-3.git"
+  },
+  "author": "Ashar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asharoran-401-advanced-javascript/lab-3/issues"
+  },
+  "homepage": "https://github.com/asharoran-401-advanced-javascript/lab-3#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
